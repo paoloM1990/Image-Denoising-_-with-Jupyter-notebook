@@ -8,7 +8,7 @@ I provide the following items in this folder:
 - Jupyter notebook files
 - original images to upload
 - PDF previews 
-- installation guidelines of Jupyter notebook (via Anaconda installation) 
+- installation guidelines of Jupyter notebook (at the bottom of this page) 
 
 Any person can have fun using these algorithms, even without any previous basic knowledge in Python. 
 
@@ -16,3 +16,13 @@ For any beginners in the audience, I would suggest to watch some video tutorials
 These are designed to train absolute beginners on Python coding with a special emphasis on image analysis. 
 The link to these video tutorials is the following:
 https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG
+
+
+
+**Installation guidelines of Jupyter notebook
+
+For new users, I highly recommend installing Anaconda. 
+Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+
+Use the following installation steps clearly described at this link:
+https://docs.jupyter.org/en/latest/install/notebook-classic.html
