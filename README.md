@@ -19,7 +19,7 @@ https://www.youtube.com/playlist?list=PLHae9ggVvqPgyRQQOtENr6hK0m1UquGaG
 
 
 
-**Installation guidelines of Jupyter notebook**
+**Installation guidelines of Jupyter notebook:**
 
 For new users, I highly recommend installing Anaconda. 
 Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
